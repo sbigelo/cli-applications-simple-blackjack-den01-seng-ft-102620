@@ -70,6 +70,8 @@ end
 
 def runner
   welcome
+  total = initial_round
+  
   
   
 end_game

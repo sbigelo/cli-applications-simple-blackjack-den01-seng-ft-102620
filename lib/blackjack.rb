@@ -74,6 +74,7 @@ def runner
   until total > 21
   
   
+  
 end_game
   
 end
